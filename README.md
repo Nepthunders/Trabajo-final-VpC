@@ -50,7 +50,7 @@ Todos los modelos se entrenan y evalúan igual, para que la comparación sea vá
 ## Cómo ejecutar en Kaggle
 
 1. Crear un notebook desde la pestaña **Code** de la competencia, con Internet activado, GPU T4 x2 y el Secret `GITHUB_TOKEN`.
-2. Copiar ahí el contenido de `ejecutar_en_kaggle.ipynb` y cambiar `REPO` y el correo.
+2. Copiar ahí el contenido de `ejecuccion_kaggle.ipynb` y cambiar `REPO` y el correo.
 3. Ejecutar las celdas en orden. Al final, todos los notebooks quedan ejecutados con sus resultados y se suben al repositorio junto con `artifacts/`.
 
 Para repetir la evaluación sin volver a entrenar, poner `ENTRENAR = False` en el notebook del modelo. Así usa los pesos guardados en `artifacts/<modelo>/`.
