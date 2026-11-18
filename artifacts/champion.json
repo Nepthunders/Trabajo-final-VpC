@@ -1,0 +1,11 @@
+{
+  "modelo": "deeplab_r34",
+  "nombre": "DeepLabV3+ + ResNet34",
+  "criterio": "automático: mayor Dice global en validación con posprocesado completo (variante C)",
+  "metrica": "dice",
+  "validacion": 0.6151,
+  "prueba": 0.6243,
+  "pesos": "artifacts/deeplab_r34/pesos_fp16.pt",
+  "posproceso": "artifacts/deeplab_r34/posproceso.json",
+  "fecha": "2026-11-18 04:51"
+}

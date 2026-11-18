@@ -1,0 +1,30 @@
+{
+  "Fish": {
+    "solo_umbral": 0.45,
+    "umbral": 0.45,
+    "area_min": 0.06,
+    "morfologia": false,
+    "metrica_validacion": 0.5484
+  },
+  "Flower": {
+    "solo_umbral": 0.5,
+    "umbral": 0.5,
+    "area_min": 0.06,
+    "morfologia": false,
+    "metrica_validacion": 0.6776
+  },
+  "Gravel": {
+    "solo_umbral": 0.5,
+    "umbral": 0.45,
+    "area_min": 0.06,
+    "morfologia": false,
+    "metrica_validacion": 0.5778
+  },
+  "Sugar": {
+    "solo_umbral": 0.45,
+    "umbral": 0.45,
+    "area_min": 0.0,
+    "morfologia": false,
+    "metrica_validacion": 0.6438
+  }
+}

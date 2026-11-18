@@ -1,0 +1,4 @@
+split,Fish,Flower,Gravel,Sugar,n_imagenes
+train,0.501,0.426,0.53,0.676,4438
+val,0.501,0.425,0.532,0.68,553
+test,0.503,0.429,0.528,0.672,555

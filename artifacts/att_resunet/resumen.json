@@ -1,0 +1,21 @@
+{
+  "modelo": "att_resunet",
+  "nombre": "Attention Residual U-Net",
+  "fecha": "2026-11-18 04:47",
+  "metrica_principal": "dice",
+  "validacion": {
+    "A": 0.5767,
+    "B": 0.5775,
+    "C": 0.5808
+  },
+  "prueba": {
+    "A": 0.5909,
+    "B": 0.5923,
+    "C": 0.5942
+  },
+  "n_params": 8202588,
+  "mejor_epoca": 12,
+  "ms_por_imagen_evaluacion": 14.11,
+  "dispositivo_evaluacion": "Tesla T4",
+  "ms_por_imagen_cpu": 1125.9
+}

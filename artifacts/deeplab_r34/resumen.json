@@ -1,0 +1,21 @@
+{
+  "modelo": "deeplab_r34",
+  "nombre": "DeepLabV3+ + ResNet34",
+  "fecha": "2026-11-18 04:11",
+  "metrica_principal": "dice",
+  "validacion": {
+    "A": 0.6144,
+    "B": 0.6146,
+    "C": 0.6151
+  },
+  "prueba": {
+    "A": 0.6245,
+    "B": 0.6242,
+    "C": 0.6243
+  },
+  "n_params": 22438228,
+  "mejor_epoca": 12,
+  "ms_por_imagen_evaluacion": 10.96,
+  "dispositivo_evaluacion": "Tesla T4",
+  "ms_por_imagen_cpu": 1643.9
+}

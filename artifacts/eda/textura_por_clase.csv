@@ -1,0 +1,5 @@
+clase,fraccion_nubosa,objetos_por_10k_px,area_mediana_objeto_px,pct_nube_en_objeto_mayor,elongacion_objeto_mayor,densidad_bordes,brillo_medio,brillo_std
+Fish,0.323,18.638,10.0,52.713,2.128,0.231,0.331,0.23
+Flower,0.329,18.828,13.0,34.177,1.628,0.218,0.334,0.226
+Gravel,0.198,33.261,9.5,26.914,1.707,0.247,0.27,0.175
+Sugar,0.115,24.434,9.0,28.067,1.877,0.192,0.241,0.13

@@ -1,0 +1,21 @@
+{
+  "modelo": "unet_r34",
+  "nombre": "U-Net + ResNet34",
+  "fecha": "2026-11-18 03:57",
+  "metrica_principal": "dice",
+  "validacion": {
+    "A": 0.6108,
+    "B": 0.6112,
+    "C": 0.6119
+  },
+  "prueba": {
+    "A": 0.6191,
+    "B": 0.6199,
+    "C": 0.6201
+  },
+  "n_params": 24436804,
+  "mejor_epoca": 12,
+  "ms_por_imagen_evaluacion": 7.55,
+  "dispositivo_evaluacion": "Tesla T4",
+  "ms_por_imagen_cpu": 656.7
+}

@@ -1,0 +1,21 @@
+{
+  "modelo": "cnn",
+  "nombre": "CNN Segmenter",
+  "fecha": "2026-11-18 04:47",
+  "metrica_principal": "dice",
+  "validacion": {
+    "A": 0.5495,
+    "B": 0.5509,
+    "C": 0.5532
+  },
+  "prueba": {
+    "A": 0.5608,
+    "B": 0.5624,
+    "C": 0.5652
+  },
+  "n_params": 6979780,
+  "mejor_epoca": 12,
+  "ms_por_imagen_evaluacion": 8.96,
+  "dispositivo_evaluacion": "Tesla T4",
+  "ms_por_imagen_cpu": 816.5
+}
